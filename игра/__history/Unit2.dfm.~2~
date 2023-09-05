@@ -1,0 +1,9 @@
+object DataModule2: TDataModule2
+  OldCreateOrder = False
+  Height = 150
+  Width = 215
+  object MainMenu1: TMainMenu
+    Left = 64
+    Top = 16
+  end
+end
